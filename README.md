@@ -3,7 +3,7 @@
 以下のリンクより、私のポートフォリオページを閲覧できます！
 是非ご覧ください！
 
-https://github.com/Atsumi-Gakuto/Portfolio
+https://atsumi-gakuto.github.io/Portfolio/portfolio.html
 
 ---
 
@@ -12,4 +12,4 @@ Thank you for visiting my profile!
 
 You can see my portfolio site from below link (Japanese only)!
 
-https://github.com/Atsumi-Gakuto/Portfolio
+https://atsumi-gakuto.github.io/Portfolio/portfolio.html
