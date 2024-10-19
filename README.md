@@ -1,16 +1,15 @@
-## Hi there 👋
+プロフィールの閲覧ありがとうございます！
 
-<!--
-**Atsumi-Gakuto/Atsumi-Gakuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+以下のリンクより、私のポートフォリオページを閲覧できます！
+是非ご覧ください！
 
-Here are some ideas to get you started:
+https://github.com/Atsumi-Gakuto/Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Hello.
+Thank you for visiting my profile!
+
+You can see my portfolio site from below link (Japanese only)!
+
+https://github.com/Atsumi-Gakuto/Portfolio
